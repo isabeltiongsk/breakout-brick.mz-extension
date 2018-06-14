@@ -5,7 +5,7 @@ by Isabel Tiong. <br>
 Mini breakout brick game on firefox pop up window<br>
 
 ### Screenshot
-![alt text](https://github.com/isabeltiongsk/breakout-brick.mz-extension/blob/master/img/demo.JPG)
+![alt text](https://github.com/isabeltiongsk/breakout-brick.mz-extension/blob/master/img/demo.JPG) <br>
 You can try the [Demo](http://georgeosddev.github.com/markdown-edit) here
 
 ## About the game
