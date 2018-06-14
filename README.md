@@ -29,7 +29,6 @@ To prevent this from happening, the player has a movable paddle to bounce the ba
 * Game icon will appeared on the right side bar.
 * Press and enjoy your game!
 
-<br>
 ## Code References
 
 The source code for this game was referred from the Mozilla Game Tutorial [here](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)<br>
