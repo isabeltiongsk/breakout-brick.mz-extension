@@ -38,4 +38,3 @@ But still, minor changes are made to the code
 * **Brick and ball colour** are changed.
 * **Ball speed** has decreased a little.
 * **Frame size** has decreased for the firefox popup window.
-* **Drag and Drop** file read.
