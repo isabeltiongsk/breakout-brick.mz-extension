@@ -1,8 +1,8 @@
 {
 
-  "description": "OSD Feature 1",
+  "description": "Play classic breakout brick game on your popup window",
   "manifest_version": 2,
-  "name": "ProjectScheduler",
+  "name": "Breakout Brick",
   "version": "1",
 
   "icons": {
@@ -15,7 +15,7 @@
   },
   "browser_action": {
     "default_icon": "icon/brick.png",
-    "default_title": "Mini Game",
+    "default_title": "Breakout Brick",
     "default_popup": "index.html"
   },
   "permissions": ["storage"]
