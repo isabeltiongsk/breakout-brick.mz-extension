@@ -2,7 +2,8 @@
 
 This is an assignment project for Coventry University Open Source Development Course<br>
 by Isabel Tiong. <br>
-Mini breakout brick game on firefox pop up window<br>
+### Purpose for this extension
+To build a mini breakout brick game on firefox pop up window, which is not existed in the current firefox extension<br>
 
 ### Screenshot
 ![alt text](https://github.com/isabeltiongsk/breakout-brick.mz-extension/blob/master/img/demo.JPG) <br>
