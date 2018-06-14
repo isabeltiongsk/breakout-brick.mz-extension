@@ -6,7 +6,7 @@ Mini breakout brick game on firefox pop up window<br>
 
 ### Screenshot
 ![alt text](https://github.com/isabeltiongsk/breakout-brick.mz-extension/blob/master/img/demo.JPG) <br>
-You can try the [Demo](http://georgeosddev.github.com/markdown-edit) here
+You can try the [Demo](http://htmlpreview.github.io/?https://github.com/isabeltiongsk/breakout-brick.mz-extension/blob/master/index.html) here
 
 ## About the game
 Breakout is an arcade game developed and published by Atari, Inc., released on May 13, 1976. <br>
